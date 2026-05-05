@@ -1,11 +1,26 @@
 # Case Study: Can the Weather Predict the Power Grid? Forecasting Regional Energy Demand Using Weather Patterns
 
-This repository contains the hook, rubric, data, and reference materials necessary to complete the Case Study.
+## Forecasting Regional Energy Demand Using Weather Patterns
+
+This repository contains the hook document, rubric, data, and reference materials necessary to complete this case study.
+
 ---
 
 ## Important Information
 
-The two attached PDFs are the Scenario and Task for the case study, as well as a Rubric to follow in order to meet all requirements successfully.
+The two attached PDFs are:
+- **Hook Document** - the scenario and task overview that frames the case study
+- **Rubric** - the full list of requirements you need to meet to complete the case study successfully
+
+---
+
+## Instructions
+
+This case study asks you to build and compare two forecasting models using real electricity demand and weather data. A full step-by-step pipeline walkthrough, including data loading, preprocessing, merging, modeling, and evaluation, is provided in the README of the original project repository:
+
+**[https://github.com/pallavim8/Project-2-Cavalier-Kaggles](https://github.com/pallavim8/Project-2-Cavalier-Kaggles)**
+
+Read through that README carefully before starting. It explains each stage of the analysis in order and describes how to reproduce the results.
 
 ---
 
